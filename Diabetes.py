@@ -30,7 +30,7 @@ pd.pandas.set_option('display.max_columns', None)
 pd.set_option('display.float_format', lambda x: '%.3f' % x)
 
 
-df = pd.read_csv("C:/Users/Gavita/Desktop/dsmlbcc/Diabets/DataSets/diabetes.csv")
+df = pd.read_csv("C:Diabets/DataSets/diabetes.csv")
 
 
 def general(dataframe):
